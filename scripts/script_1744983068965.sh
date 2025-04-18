@@ -1,7 +1,4 @@
-hello
+skibidi toiler
+nb
 
-my is
-
-jon cenaaa
-
-sike
+ok no mb
