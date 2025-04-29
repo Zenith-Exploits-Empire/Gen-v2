@@ -33,11 +33,48 @@ local Window = Rayfield:CreateWindow({
       Key = {"key2025"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
+-- Huge Hunter
+local Section = Tab:CreateSection("Huge Hunter")
 
-Section:Set("Scripts")
-local Button = Tab:CreateButton({
-   Name = "Button Example",
+local Button = Section:CreateButton({
+   Name = "Load Huge Hunter",
    Callback = function()
-   -- The function that takes place when the button is pressed
+      -- The function that takes place when the button is pressed
+      print("Thanks For Using Evelynn Scripts")
+   end,
+})
+-- Gem spawner
+local Section1 = Window:CreateTab("Gem Spawner")
+local Button1 = Section1:CreateButton({
+   Name = "Load Gem Spawner",
+   Callback = function()
+      print("Thanks For Using Evelynn Scripts")
+   end,
+})
+
+-- Pet spwaner
+local Section2 = Window:CreateTab("Pet Spawner")
+local Button2 = Section2:CreateButton({
+   Name = "Load Pet Spawner",
+   Callback = function()
+      print("Thanks For Using Evelynn Scripts")
+   end,
+})
+
+-- Trade scam
+local Section3 = Window:CreateTab("Trade Scam")
+local Button3 = Section3:CreateButton({
+   Name = "Load Trade Scam",
+   Callback = function()
+      print("Thanks For Using Evelynn Scripts")
+   end,
+})
+
+-- Anti mailstealer
+local Section4 = Window:CreateTab("Anti mailstealer")
+local Button4 = Section4:CreateButton({
+   Name = "Save Anti-Mailstealer to executor",
+   Callback = function()
+      print("Thanks For Using Evelynn Scripts")
    end,
 })
