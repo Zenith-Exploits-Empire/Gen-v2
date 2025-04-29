@@ -47,6 +47,7 @@ local Section1 = Window:CreateTab("Gem Spawner")
 local Button1 = Section1:CreateButton({
    Name = "Load Gem Spawner",
    Callback = function()
+         -- The function that takes place when the button is pressed
       print("Thanks For Using Evelynn Scripts")
    end,
 })
@@ -56,6 +57,7 @@ local Section2 = Window:CreateTab("Pet Spawner")
 local Button2 = Section2:CreateButton({
    Name = "Load Pet Spawner",
    Callback = function()
+         -- The function that takes place when the button is pressed
       print("Thanks For Using Evelynn Scripts")
    end,
 })
@@ -65,6 +67,7 @@ local Section3 = Window:CreateTab("Trade Scam")
 local Button3 = Section3:CreateButton({
    Name = "Load Trade Scam",
    Callback = function()
+         -- The function that takes place when the button is pressed
       print("Thanks For Using Evelynn Scripts")
    end,
 })
@@ -74,6 +77,7 @@ local Section4 = Window:CreateTab("Anti mailstealer")
 local Button4 = Section4:CreateButton({
    Name = "Save Anti-Mailstealer to executor",
    Callback = function()
+         -- The function that takes place when the button is pressed
       print("Thanks For Using Evelynn Scripts")
    end,
 })
